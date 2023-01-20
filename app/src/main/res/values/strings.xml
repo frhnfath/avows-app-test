@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Avows</string>
+    <string name="camera">Camera</string>
+    <string name="import_image">Import Image</string>
+</resources>
