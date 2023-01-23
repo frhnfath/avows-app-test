@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775554110455",
+    "firebase_url": "https://avows-2382a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "avows-2382a",
+    "storage_bucket": "avows-2382a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775554110455:android:91c6fde944976e025d14f2",
+        "android_client_info": {
+          "package_name": "com.example.avows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775554110455-qci24kpec7vq19ici3umitndjvucadj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avows",
+            "certificate_hash": "7076fdec9271d68d95d1566950c8be16e465ec13"
+          }
+        },
+        {
+          "client_id": "775554110455-8anbjlqi16pjqugear6kid5q3p2vfu38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT51O3ZSH5RAPLXZMfbXybjUTJ2-5ygVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775554110455-8anbjlqi16pjqugear6kid5q3p2vfu38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

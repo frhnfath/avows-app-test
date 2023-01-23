@@ -4,4 +4,6 @@
     <string name="import_image">Import Image</string>
     <string name="camera_button">Camera Button</string>
     <string name="button_switch_camera">Button Switch Camera</string>
+    <string name="result">Result</string>
+    <string name="process_ocr">Process OCR</string>
 </resources>
